@@ -35,11 +35,11 @@ conda-pack -o crash_daddy.zip
 
 # Program Features
 
-*Interactive Jupyter Widgets for input and outputs.
-*This program accepts inputs of variables as a list, allowing single inputs, ranges, or lists. 
-*Statistical summary and export of results as CSV
+*Interactive Jupyter Widgets for input and outputs.<br>
+*This program accepts inputs of variables as a list, allowing single inputs, ranges, or lists. <br>
+*Statistical summary and export of results as CSV.<br>
 
 
 # Disclaimer
-*This program is made for learning and research, and is free to all
+*This program is made for learning and research, and is free to all<br>
 *Errors always happen. You are responsible for cross-checking answers and ensuring consistent units
