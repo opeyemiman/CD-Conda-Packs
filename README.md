@@ -15,10 +15,23 @@ These Kinematics equations relate an object's displacement, s, initial velocity 
 # Installation 
 *Install Anaconda for Package management [Anaconda.org]
 
-'''git clone'''
+*Clone repo
+```
+git clone https://github.com/opeyemiman/OGOP-Time-Distance-Calculator.git
+cd OGOP-Time-Distance-Calculator
+```
 
-
-
+*Create a Conda environment named crash_daddy
+```
+conda create -n crash_daddy
+python -m ipykernel install --user --name crash_daddy --display-name "Python (crash_daddy)"
+conda activate crash_daddy
+pip install -r requirements.txt
+```
+*Conda pack the environment
+```
+conda-pack -o crash_daddy.zip
+```
 
 # Program Features
 
